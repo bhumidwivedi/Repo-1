@@ -1,0 +1,11 @@
+#include<studio.h>
+#include<conio.h>
+void main()
+{
+int a=10,b=3,c=5;
+average=(a+b+c)/2;
+printf("average of a, b, c", average);
+getch() ;
+} 
+
+
